@@ -3,7 +3,7 @@
    ===================================================== */
 const CONFIG = {
   password: "love",                       // كلمة السر
-  music: "song2.mp3",              // مسار الموسيقى
+  music: "09.Beit_Kebeer.mp3",              // مسار الموسيقى
   volume: 0.5,
   gate:    { title: "مخصوص ليكي", sub: "اكتبي كلمة السر" },
   welcome: { title:"Hi Rooody", text: "[ نورتي مكانك ينور عيني ]" },
